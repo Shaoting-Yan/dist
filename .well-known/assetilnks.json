@@ -1,0 +1,5 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { "namespace": "android_app", "package_name": "com.example.pwaembedtest",
+                 "sha256_cert_fingerprints": ["85:52:EF:35:23:FF:AE:7B:E1:29:EF:D1:6A:7C:68:52:9C:5B:32:A1:B2:9F:53:F2:DF:C9:2D:F2:54:4E:49:D4"] }
+  }]
